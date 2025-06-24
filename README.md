@@ -1,4 +1,4 @@
-# Simple Scheduler and Shell Projects
+# Simple Shell and Scheduler
 
 This repository contains two C-based projects:
 
@@ -7,7 +7,7 @@ This repository contains two C-based projects:
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 - GCC or any C compiler
 - Terminal (Linux/macOS preferred)
@@ -15,7 +15,7 @@ This repository contains two C-based projects:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -36,7 +36,7 @@ This repository contains two C-based projects:
 
 ---
 
-## ▶️ How to Run (Using VS Code)
+## How to Run (Using VS Code)
 
 ### 1. Open in VS Code
 
@@ -65,19 +65,19 @@ gcc simple-shell.c fib.c helloworld.c -o simple_shell
 
 ---
 
-## 📄 Documentation
+## Documentation
 
 Each folder includes a `Documentation.pdf` file that describes the design, structure, and use cases of the corresponding project.
 
 ---
 
-## 🛠 Notes
+## Notes
 
 - `.vscode/settings.json` helps configure build/run tasks in VS Code.
 - Binaries (`fib`, `fact`, etc.) are included for reference; you can rebuild them using the `.c` files.
 
 ---
 
-## 📬 Author
+## Author
 
 Feel free to modify or extend these projects. Contributions are welcome!
