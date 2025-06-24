@@ -79,5 +79,7 @@ Each folder includes a `Documentation.pdf` file that describes the design, struc
 ---
 
 ## Author
+- Aryan Vashishtha: aryan23148@iiitd.ac.in
+- Samayra Meena: samayra23476@iiitd.ac.in
 
 Feel free to modify or extend these projects. Contributions are welcome!
